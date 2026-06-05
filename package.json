@@ -2,7 +2,7 @@
   "name": "Portfolio-web",
   "private": true,
   "version": "0.0.1",
-  "type": "module",ss
+  "type": "module",
   "scripts": {
   "dev": "vite",
   "build": "vite build",
