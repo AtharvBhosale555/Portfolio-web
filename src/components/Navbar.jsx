@@ -12,7 +12,7 @@ function Navbar() {
           <span className="inline-flex h-10 w-10 items-center justify-center rounded-full bg-accent text-base font-bold text-white shadow-glow">
             AB
           </span>
-          <span>Atharv</span>
+          <span>Atharv Bhosale</span>
         </a>
 
         <nav className="hidden items-center gap-6 md:flex">

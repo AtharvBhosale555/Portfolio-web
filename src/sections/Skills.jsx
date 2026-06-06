@@ -6,7 +6,7 @@ function Skills() {
     <section id="skills" className="py-16">
       <div className="mx-auto max-w-6xl">
         <div className="mb-10">
-          <p className="text-sm uppercase tracking-[0.3em] text-slate-400">Skills</p>
+          <p className="text-sm uppercase tracking-[0.3em] text-slate-400">Tech Skills</p>
           <h2 className="mt-3 text-3xl font-semibold text-white sm:text-4xl">What I Work With</h2>
         </div>
 
