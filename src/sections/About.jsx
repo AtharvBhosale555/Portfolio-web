@@ -24,7 +24,7 @@ function About() {
             transition={{ duration: 0.7 }}
           >
             <p className="text-slate-300">
-              I am a Computer Science student exploring AI, machine learning, and full stack development.
+              I am a Computer Science student exploring Data Science and Machine Learning.
               I enjoy solving problems through code and creating elegant, data-driven experiences.
             </p>
             <div className="mt-8 space-y-4 text-slate-300">
