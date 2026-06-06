@@ -7,7 +7,7 @@ function Skills() {
       <div className="mx-auto max-w-6xl">
         <div className="mb-10">
           <p className="text-sm uppercase tracking-[0.3em] text-slate-400">Tech Skills</p>
-          <h2 className="mt-3 text-3xl font-semibold text-white sm:text-4xl">What I Work With</h2>
+          <h2 className="mt-3 text-3xl font-semibold text-white sm:text-4xl">What I Worked With</h2>
         </div>
 
         <div className="grid gap-5 sm:grid-cols-2 xl:grid-cols-4">

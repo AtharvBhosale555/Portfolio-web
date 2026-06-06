@@ -15,11 +15,11 @@ function Hero() {
           <h1 className="text-4xl font-semibold text-white sm:text-5xl">I build modern AI and web experiences.</h1>
           <div className="mt-6 space-y-3 text-slate-300 sm:text-lg">
             <p>CSE Student</p>
-            <p>AI & ML Enthusiast</p>
-            <p>Full Stack Developer</p>
+            <p>Machine Learning & Data Science Enthusiast</p>
+            <p>Aspiring Data Scientist</p>
           </div>
           <p className="mt-6 max-w-xl text-slate-400">
-            I am a Computer Science student passionate about data science, machine learning.
+            I build Machine Learning projects and work with real-world datasets to solve practical problems.
           </p>
           <div className="mt-8 flex flex-wrap gap-4">
             <a
