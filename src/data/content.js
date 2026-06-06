@@ -8,7 +8,7 @@ export const navLinks = [
 ];
 
 export const stats = [
-  { label: 'Projects', value: '8+' },
+  { label: 'Projects', value: '5+' },
   { label: 'Skills', value: '12+' },
   { label: 'Experience', value: 'Internship' }
 ];
@@ -16,19 +16,19 @@ export const stats = [
 export const skillGroups = [
   {
     title: 'Programming',
-    items: ['Python', 'Java', 'JavaScript', 'C++']
+    items: ['Python', 'Java', 'JavaScript', 'R']
   },
   {
     title: 'Web',
     items: ['HTML', 'CSS', 'React', 'Flask']
   },
   {
-    title: 'AI / ML',
-    items: ['OpenCV', 'NumPy', 'Pandas', 'Scikit-learn']
+    title: 'ML | Data Science',
+    items: ['Matplotlib','Seaborn','XGBoost','TensorFlow','SciPY','OpenCV', 'NumPy', 'Pandas', 'Scikit-learn']
   },
   {
     title: 'Tools',
-    items: ['Git', 'GitHub', 'VS Code', 'Figma']
+    items: ['Git','R Studio','PyCharm','GitHub', 'VS Code', 'Figma','Jira','Kaggle','PowerBI','Excel']
   }
 ];
 
@@ -57,7 +57,7 @@ export const education = [
   {
     title: 'B.Tech Computer Science Engineering',
     period: 'Present',
-    details: 'Pursuing a B.Tech degree with a focus on AI, ML, and full stack development.'
+    details: 'Pursuing a B.Tech degree with a focus on ML,Big Data and Data Science.'
   },
   {
     title: 'Diploma in Computer Science',
@@ -78,21 +78,21 @@ export const experience = {
   responsibilities: [
     'Assisted with cloud deployment tasks and infrastructure monitoring.',
     'Supported automation of environment setup and documentation.',
-    'Collaborated with the team to improve system performance and reliability.'
   ]
 };
 
 export const certifications = [
-  { title: 'Python Certification', provider: 'Online Course' },
-  { title: 'Machine Learning Certification', provider: 'Online Course' },
-  { title: 'Cloud Computing Certification', provider: 'Online Course' },
-  { title: 'Data Science Certification', provider: 'Online Course' }
+  { title: 'Critical Thinking', provider: '⭐ ⭐ ⭐ ⭐' },
+  { title: 'Research and Information Literacy', provider: '⭐ ⭐ ⭐ ⭐ ⭐' },
+  { title: 'Communication', provider: '⭐ ⭐ ⭐ ⭐' },
+  { title: 'Adaptability', provider: '⭐ ⭐ ⭐ ⭐ ⭐' },
+  { title: 'Business Storytelling', provider: '⭐ ⭐ ⭐ ⭐' }
 ];
 
 export const contactDetails = {
-  email: 'atharv@example.com',
-  phone: '+91 12345 67890',
+  email: 'atharavbhosale13@gmail.com',
+  phone: '+91 7770090165',
   location: 'Pune, India',
-  linkedin: 'https://www.linkedin.com/in/atharv-bhosale',
-  github: 'https://github.com/atharv-bhosale'
+  linkedin: 'https://www.linkedin.com/in/atharvbhosale555',
+  github: 'https://github.com/atharvbhosale555'
 };

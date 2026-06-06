@@ -19,7 +19,7 @@ function Hero() {
             <p>Full Stack Developer</p>
           </div>
           <p className="mt-6 max-w-xl text-slate-400">
-            I am a Computer Science student passionate about AI, ML, and building real-world applications.
+            I am a Computer Science student passionate about data science, machine learning.
           </p>
           <div className="mt-8 flex flex-wrap gap-4">
             <a

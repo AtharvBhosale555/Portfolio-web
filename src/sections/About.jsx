@@ -11,7 +11,7 @@ function About() {
             <h2 className="mt-3 text-3xl font-semibold text-white sm:text-4xl">About Me</h2>
           </div>
           <p className="max-w-xl text-slate-400">
-            I am a motivated CSE student with strong interest in AI, ML, and building practical applications.
+            I am a motivated CSE student with strong interest in ML, Data Science, and Big Data.
           </p>
         </div>
 
@@ -29,8 +29,8 @@ function About() {
             </p>
             <div className="mt-8 space-y-4 text-slate-300">
               <p>• CSE student</p>
-              <p>• Interested in AI/ML</p>
-              <p>• Likes building projects</p>
+              <p>• Interested in Data Science,ML</p>
+              <p>• Likes building Models</p>
             </div>
           </motion.div>
 
