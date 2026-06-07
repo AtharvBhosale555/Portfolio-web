@@ -12,7 +12,7 @@ function Hero() {
           className="max-w-2xl"
         >
           <p className="mb-4 text-sm uppercase tracking-[0.3em] text-slate-400">Hello, I’m Atharv</p>
-          <h1 className="text-4xl font-semibold text-white sm:text-5xl">I build modern AI and web experiences.</h1>
+          <h1 className="text-4xl font-semibold text-white sm:text-5xl">I build machine learning projects and work with real-world datasets.</h1>
           <div className="mt-6 space-y-3 text-slate-300 sm:text-lg">
             <p>CSE Student</p>
             <p>Machine Learning & Data Science Enthusiast</p>
